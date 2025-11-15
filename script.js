@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", () => {
     };
     script.onload = () => {
         try {
-            emailjs.init("ITC_rW9nWH9c0xcy3");
+            emailjs.init("WDfwnzRXaISvor5ul");
             console.log("EmailJS initialized successfully");
         } catch (error) {
             formMessage.textContent = "Failed to initialize EmailJS. Please try again.";
@@ -150,7 +150,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // Log form data for debugging
         console.log("Form data being sent:", formData);
 
-        emailjs.send("service_ons9ny8", "template_eo27rai", formData)
+        emailjs.send("service_urfqu3i", "template_x46yn6a", formData)
             .then((response) => {
                 //console.log("Email sent successfully:", response.status, response.text);
                 formMessage.textContent = "Message sent successfully!";
