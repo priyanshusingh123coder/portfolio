@@ -1,0 +1,24 @@
+
+[
+    {
+        "title": "Project One",
+        "description": "A modern web application built with React and Node.js.",
+        "tech": ["React", "Node.js", "MongoDB"],
+        "image": "https://via.placeholder.com/400x200?text=Project+One",
+        "link": "https://example.com/project-one"
+    },
+    {
+        "title": "Project Two",
+        "description": "Responsive e-commerce site using HTML, CSS, and JavaScript.",
+        "tech": ["HTML", "CSS", "JavaScript"],
+        "image": "https://via.placeholder.com/400x200?text=Project+Two",
+        "link": "https://example.com/project-two"
+    },
+    {
+        "title": "Project Three",
+        "description": "Data visualization dashboard with D3.js.",
+        "tech": ["D3.js", "JavaScript", "CSS"],
+        "image": "https://via.placeholder.com/400x200?text=Project+Three",
+        "link": "https://example.com/project-three"
+    }
+]

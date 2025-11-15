@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "Uber",
+      "description": "A ride-sharing app with real-time tracking.",
+      "image": "/data/images/1080600.webp",
+      "github": "https://github.com/gaurav-048-sharma/uber.git",
+      "website": "https://project1website.com"
+    },
+    {
+      "id": 2,
+      "name": "Airbnb",
+      "description": "A vacation rental platform with user reviews.",
+      "image": "/data/images/airbnb.png",
+      "github": "https://github.com/yourusername/project2",
+      "website": "https://project2website.com"
+    },
+    {
+      "id": 3,
+      "name": "ClipSync",
+      "description": "A video streaming platform with real-time chat.",
+      "image": "/data/images/clipsync.jpeg",
+      "github": "https://github.com/yourusername/project3",
+      "website": "https://project3website.com"
+    },
+    {
+      "id": 4,
+      "name": "Chat App",
+      "description": "A chat application using WebSockets.",
+      "image": "/data/images/chatapp.png",
+      "github": "https://github.com/yourusername/project4",
+      "website": "https://project4website.com"
+    },
+    {
+      "id": 5,
+      "name": "Network Security",
+      "description": "It surf through internet and detects incoming and outgoing malwares.",
+      "image": "/data/images/cybersecutity.jpeg",
+      "github": "https://github.com/yourusername/project5",
+      "website": "https://project5website.com"
+    },
+    {
+      "id": 6,
+      "name": "EliteMart",
+      "description": "An e-commerce site with a custom CMS.",
+      "image": "/data/images/elitemart.png",
+      "github": "https://github.com/yourusername/project6",
+      "website": "https://project6website.com"
+    },
+    {
+        "id": 7,
+        "name": "Learstream",
+        "description": "A video streaming platform with real-time chat.",
+        "image": "/data/images/learstream.jpeg",
+        "github": "https://github.com/yourusername/project6",
+        "website": "https://project6website.com"
+    },
+    {
+      "id": 8,
+      "name": "FlickStream",
+      "description": "A video streaming platform built using HTML, CSS and JS",
+      "image": "/data/images/flick.png",
+      "github": "https://github.com/gaurav-048-sharma/FlickStream.git",
+      "website": "https://gaurav-048-sharma.github.io/FlickStream/"
+    }
+  ]
